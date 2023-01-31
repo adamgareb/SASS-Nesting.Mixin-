@@ -1,0 +1,38 @@
+button {
+  border-radius: 5px;
+}
+
+h1 {
+  color: yellow;
+  background-color: green;
+}
+
+h2 {
+  color: yellow;
+  background-color: green;
+}
+
+h3 {
+  color: yellow;
+  background-color: green;
+}
+
+.header h1 {
+  text-align: center;
+}
+
+.header h2 {
+  text-align: center;
+}
+
+.header h3 {
+  text-align: center;
+}
+
+.lister li {
+  color: blue;
+}
+
+.buttons button {
+  border-radius: 30em;
+}/*# sourceMappingURL=style.css.map */
